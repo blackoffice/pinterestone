@@ -2,4 +2,4 @@
 
 This is the pinteresting sample application for 
 
-(*One Monthe Rails) (http::black-office.com)
+(*One Monthe Rails) (http:black-office.com)
